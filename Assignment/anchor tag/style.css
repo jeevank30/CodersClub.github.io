@@ -1,0 +1,22 @@
+a{
+    text-decoration: none;
+    text-shadow: 2px 1px;
+    font-size: 50px;
+    cursor: auto;
+}
+.list{
+    font-size: 50px;
+    margin: 40px;
+}
+a:link {
+    color: rgb(128, 0, 115);
+  }
+  a:visited {
+    color: rgb(54, 10, 70);
+  }
+  a:hover {
+    color: red;
+  }
+  a:active {
+    color: yellow;
+  }
